@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=grosix
+POSTGRES_USER=sCiblpTRSCxZlEKRaLoUOrteFoIOMLZc
+POSTGRES_PASSWORD=zXrnQ4fIUyap2HrE3kRF2YhTS7s7IVj4gj5Y3trs6umtAWOiaXajr9CzBHC46VkG
